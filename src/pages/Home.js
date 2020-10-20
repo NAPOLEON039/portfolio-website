@@ -1,6 +1,6 @@
 import React from 'react'
 
-import '../../public/assets/homePageBoySitting.svg'
+import BoySitting from '../../public/assets/homePageBoySitting.svg'
 import './Home.css'
 
 const Home = () => (
@@ -10,7 +10,7 @@ const Home = () => (
             <h1>Web Developer</h1>
         </div>
         <div className="image">
-            <img width="30px" height="30px" src="../../public/assets/homePageBoySitting.svg" />
+            <img width="500px" height="500px" src={BoySitting} />
         </div>
     </div>
 )

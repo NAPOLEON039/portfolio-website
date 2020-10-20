@@ -1,0 +1,22 @@
+.home {
+    background: linear-gradient(135deg, rgba(25,25,25,1) 0%, rgba(158,43,211,1) 100%);
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: flex-end;
+}
+
+.heading {
+    padding-bottom: 170px;
+}
+
+h1 {
+    margin: 0;
+    color: #9E2BD3;
+    font-size: 7.5em;
+    padding-left: 60px;
+}
+
+#text-name {
+    color: #FFFFFF;
+}

@@ -3,7 +3,7 @@
     height: 10vh;
     border-radius: 20px 20px 0 0;
     background: rgb(23,93,220);
-    background: linear-gradient(225deg, rgba(23,93,220,1) 0%, rgba(158,43,211,1) 100%);
+    background: linear-gradient(225deg, rgba(23,93,220,1) 0%, rgba(158,43,211,1) 85%);
 }
 
 .nav-items {

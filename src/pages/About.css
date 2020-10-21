@@ -1,0 +1,16 @@
+.about {
+    width: 100vw;
+    height: 90vh;
+    background: linear-gradient(45deg, rgba(25,25,25,1) 0%, rgba(158,43,211,1) 100%);
+    display: flex;
+    justify-content: space-between;
+}
+
+#boy-image {
+    margin-top: 35px;
+    margin-right: 70px;
+}
+
+#about-circle, p {
+    display: inline-block;
+}

@@ -12,5 +12,11 @@
 }
 
 #about-circle, p {
-    display: inline-block;
+    display: inline;
+}
+
+#about-circle {
+    position: relative;
+    left: -10em;
+    bottom: -3em;
 }
